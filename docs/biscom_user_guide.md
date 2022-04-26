@@ -16,10 +16,10 @@ Please do not email files directly to project team or LASER staff.
     1. You should get an email from lasersft@leeds.ac.uk:<br>
     <img width="800" src="../images/biscom_import_notification_example_1.png" alt="Biscom notification email"><br>
     1. Click the link in this email and you'll be taken to Biscom's registration page:<br>
-    <img width="600" src="../images/biscom_import_registration_example.png" alt="Biscom registration page"><br>
+    <img width="400" src="../images/biscom_import_registration_example.png" alt="Biscom registration page"><br>
     1. Fill in the registration form, accept the terms of service and click the Register button
     1. Now that you're registered, Biscom will ask you to sign in:<br>
-    <img width="600" src="../images/biscom_import_login_example_1.png" alt="Biscom login screen"><br>
+    <img width="300" src="../images/biscom_import_login_example_1.png" alt="Biscom login screen"><br>
     1. Sign in using the email address and password you created when you registered
 1. If you've already registered with LASER Biscom:
     1. Sign into Biscom by opening a web browser and going to [https://laser-sft.leeds.ac.uk/sft](https://laser-sft.leeds.ac.uk/sft)
